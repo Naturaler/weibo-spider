@@ -1,0 +1,109 @@
+{
+  "userInfo": {
+    "id": 5890832778,
+    "screen_name": "常小冬v",
+    "profile_image_url": "https://tva2.sinaimg.cn/crop.6.0.634.634.180/006qFkHUjw8f9yo3arev9j30hs0hmtb5.jpg",
+    "profile_url": "http://m.weibo.cn/u/5890832778?uid=5890832778&luicode=10000011&lfid=1005055890832778&featurecode=20000320",
+    "statuses_count": 72,
+    "verified": true,
+    "verified_type": 0,
+    "verified_type_ext": 0,
+    "verified_reason": "北京时代中联科技有限公司市场营销经理",
+    "description": "The Best Rep Wach 不出意外 你关注了一个 有态度的表店 添加好友请戳 wechat :11257478",
+    "gender": "m",
+    "mbtype": 2,
+    "urank": 8,
+    "mbrank": 1,
+    "follow_me": true,
+    "following": false,
+    "followers_count": 1421,
+    "follow_count": 2637,
+    "cover_image_phone": "https://tva1.sinaimg.cn/crop.0.0.640.640.640/549d0121tw1egm1kjly3jj20hs0hsq4f.jpg",
+    "toolbar_menus": [
+      {
+        "type": "profile_follow",
+        "name": "关注",
+        "sub_type": 0,
+        "params": {
+          "uid": 5890832778
+        },
+        "actionlog": {
+          "act_code": "594",
+          "fid": "2307745890832778",
+          "oid": "1005055890832778",
+          "cardid": "230774_-_WEIBO_INDEX_PROFILE_FOLLOW",
+          "ext": "uid:2548436782|ouid:5890832778|ptype:0|verified_type:0|load_read_level:3|btn_name:关注"
+        }
+      },
+      {
+        "type": "link",
+        "name": "聊天",
+        "params": {
+          "scheme": "sinaweibo://messagelist?uid=5890832778&nick=常小冬v&verified_type=0"
+        },
+        "actionlog": {
+          "act_code": "594",
+          "fid": "2307745890832778",
+          "oid": "messagelist",
+          "cardid": "230774_-_WEIBO_INDEX_PROFILE_CHAT",
+          "ext": "uid:2548436782|ouid:5890832778|ptype:0|verified_type:0|load_read_level:3|btn_name:聊天"
+        },
+        "scheme": "http://m.weibo.cn/msg/chat?uid=5890832778&nick=%E5%B8%B8%E5%B0%8F%E5%86%ACv&verified_type=0&luicode=10000011&lfid=1005055890832778&featurecode=20000320"
+      },
+      {
+        "type": "toolbar_menu_list",
+        "name": "他的热门",
+        "params": {
+          "menu_list": [
+            {
+              "type": "link",
+              "name": "热门内容",
+              "params": {
+                "scheme": "sinaweibo://cardlist?containerid=2310025890832778_-_HOTMBLOG"
+              },
+              "actionlog": {
+                "act_code": "594",
+                "fid": "2307745890832778",
+                "oid": "2310025890832778_-_HOTMBLOG",
+                "cardid": "230774_-_WEIBO_INDEX_PROFILE_HOTWEIBO",
+                "ext": "uid:2548436782|ouid:5890832778|ptype:0|verified_type:0|load_read_level:3|btn_name:热门内容"
+              },
+              "scheme": "http://m.weibo.cn/p/indexInfo?containerid=2310025890832778_-_HOTMBLOG&luicode=10000011&lfid=1005055890832778&featurecode=20000320"
+            }
+          ]
+        },
+        "actionlog": {
+          "act_code": "594",
+          "fid": "2307745890832778",
+          "oid": "1005055890832778",
+          "cardid": "230774_-_WEIBO_INDEX_PROFILE_BTN_ALL",
+          "ext": "uid:2548436782|ouid:5890832778|ptype:0|verified_type:0|load_read_level:3|btn_name:他的热门"
+        }
+      }
+    ],
+    "fans_scheme": "http://m.weibo.cn/p/indexInfo?containerid=231051_-_fansrecomm_-_5890832778&luicode=10000011&lfid=1005055890832778&featurecode=20000320",
+    "follow_scheme": "http://m.weibo.cn/p/indexInfo?containerid=231051_-_followersrecomm_-_5890832778&luicode=10000011&lfid=1005055890832778&featurecode=20000320"
+  },
+  "fans_scheme": "sinaweibo://cardlist?containerid=231051_-_fansrecomm_-_5890832778",
+  "follow_scheme": "sinaweibo://cardlist?containerid=231051_-_followersrecomm_-_5890832778",
+  "tabsInfo": {
+    "selectedTab": 0,
+    "tabs": [
+      {
+        "title": "主页",
+        "tab_type": "profile",
+        "containerid": "2302835890832778"
+      },
+      {
+        "title": "微博",
+        "tab_type": "weibo",
+        "containerid": "1076035890832778",
+        "url": "/indexInfo/my"
+      }
+    ]
+  },
+  "ok": 1,
+  "seeLevel": 3,
+  "showAppTips": 0,
+  "scheme": "sinaweibo://userinfo?uid=5890832778&luicode=10000011&lfid=2302835890832778&featurecode=20000320"
+}
